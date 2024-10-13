@@ -21,5 +21,6 @@ public class Main {
         player.firstSkill();
         player.secondSKill();
         player.ultimateSkill();
+        aqza bugil
     }
 }
